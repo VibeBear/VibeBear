@@ -4,9 +4,9 @@ export default {
 	theme: {
 		extend: {
 			backgroundImage: {
-				'hero': "url('vibebear.png')",
-				'jungle': "url('cover.png')",
-				'glypheon': "url('glypheon.png')",
+				'hero': "url('https://vibebear.studio/vibebear.png')",
+				'jungle': "url('https://vibebear.studio/cover.png')",
+				'glypheon': "url('https://vibebear.studio/glypheon.png')",
 			},
 			colors: {
 				'theme': '#13151a',
